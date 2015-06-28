@@ -4,3 +4,8 @@ mkdir basic_repo
 cd basic_repo
 touch basic.html basic.css basic.txt
 open basic.txt
+git add .
+git commit -m “initial commit”
+git push
+git remote add origin git@github.com:Eggsix/basic_repo.git
+git push -u origin master
