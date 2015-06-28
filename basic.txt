@@ -1,0 +1,6 @@
+went to github to make a repo called basic_repo
+Opened terminal
+mkdir basic_repo
+cd basic_repo
+touch basic.html basic.css basic.txt
+open basic.txt
